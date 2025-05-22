@@ -1,14 +1,18 @@
 # Socioeconomic Factors and Obesity: A US Nation/State-Level Analysis
 
 **Final Project — DBAS3018: Data Movement and Integration**  
-**Nova Scotia Community College — November 2024**  
-**Elaine da Silva (w0445885) & Tiankun Deng (w0453048)**
+**Authors:** Elaine da Silva (w0445885) & Tiankun Deng (w0453048)  
+**Institution**: Nova Scotia Community College (NSCC)  
+**Program**: IT – Data Analytics  
+**Course**: DBAS3018 – Data Movement and Integration  
+**Instructor**: Cheolsoon Im  
+**Term**: Fall 2024
 
 ---
 
 ## 📌 Project Overview
 
-This project was developed as the final assignment for the Data Movement and Integration course, where we learned and explored the Python programming language. It conducts an exploratory analysis of the dataset "Nutrition, Physical Activity, and Obesity - Behavioral Risk Factor Surveillance System" (available on DATA.GOV), with the objective of uncovering patterns and trends related to nutrition, physical activity, and obesity across the United States. The analysis is performed using Python, with a focus on Object-Oriented Programming (OOP) principles and the use of core libraries such as Pandas, NumPy, and Apache Spark.
+This project was developed as the final assignment for the Data Movement and Integration course, where we learned and explored the Python programming language. It conducts an exploratory analysis of the dataset "Nutrition, Physical Activity, and Obesity - Behavioral Risk Factor Surveillance System" (available on DATA.GOV), to uncover patterns and trends related to nutrition, physical activity, and obesity across the United States. The analysis is performed using Python, with a focus on Object-Oriented Programming (OOP) principles and the use of core libraries such as Pandas, NumPy, and Apache Spark.
 
 To complement the analysis, we also used the **"yellow_tripdata_2015-01.csv"** dataset from [Kaggle](https://www.kaggle.com/datasets) to evaluate time and memory performance differences between **Pandas** and **Spark** when processing large datasets.
 
