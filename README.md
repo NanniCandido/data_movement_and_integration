@@ -8,7 +8,7 @@
 
 ## 📌 Project Overview
 
-This project conducts an exploratory analysis of the dataset **"Nutrition, Physical Activity, and Obesity - Behavioral Risk Factor Surveillance System"** (available on [DATA.GOV](https://www.data.gov/)), with the objective of uncovering patterns and trends related to nutrition, physical activity, and obesity across the United States. The analysis is performed using Python, with a focus on Object-Oriented Programming (OOP) principles and the use of core libraries such as **Pandas**, **NumPy**, and **Apache Spark**.
+This project was developed as the final assignment for the Data Movement and Integration course, where we learned and explored the Python programming language. It conducts an exploratory analysis of the dataset "Nutrition, Physical Activity, and Obesity - Behavioral Risk Factor Surveillance System" (available on DATA.GOV), with the objective of uncovering patterns and trends related to nutrition, physical activity, and obesity across the United States. The analysis is performed using Python, with a focus on Object-Oriented Programming (OOP) principles and the use of core libraries such as Pandas, NumPy, and Apache Spark.
 
 To complement the analysis, we also used the **"yellow_tripdata_2015-01.csv"** dataset from [Kaggle](https://www.kaggle.com/datasets) to evaluate time and memory performance differences between **Pandas** and **Spark** when processing large datasets.
 
@@ -81,5 +81,5 @@ Visual examples of the raw vs. filtered data structures are provided in the note
 
 ---
 
-## 📁 Repository Structure
+
 
