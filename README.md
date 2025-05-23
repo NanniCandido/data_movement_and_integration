@@ -85,5 +85,6 @@ Visual examples of the raw vs. filtered data structures are provided in the note
 
 ---
 
-
+## Acknowledgments
+Special thanks to **Cheolsoon Im** for guidance throughout the course.
 
